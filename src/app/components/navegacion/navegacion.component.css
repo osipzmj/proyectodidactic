@@ -1,0 +1,9 @@
+#nav{
+    background:dodgerblue;
+    color: white;
+
+}
+.nav-item{
+    font-weight: bold;
+    font-style: normal;
+}

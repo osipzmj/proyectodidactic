@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: white ;
+}
+   
+
+#section-login{
+    width: 400px;
+    height: 450px;
+    background: #0091ff;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px 50px;
+    border-radius: 4px;
+    
+    
+}
+
+.form-login h2{
+   margin: 0;
+   text-align: center;
+   font-family: Arial,sans-serif;
+   height: 40px;
+   margin-bottom: 30px;
+   font-size: 25px;
+   background: #0091ff;
+   font-weight: bold;
+    
+}
+.controls{
+    
+    border-radius: 6px;
+    border: 1px solid black;
+    background: #0091ff;
+    font-size: 15px;
+    margin-top: -2px;
+    padding: 5px;
+    
+}
+.btn{
+    background:#4CAF50;
+    margin: auto;
+
+    text-align:center;
+    border: 0px;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    border-radius: 7px;
+    display: block;
+}
+.link{
+    color: black;
+}
+.form-login p{
+    margin-bottom: 8px;
+    margin-top: 10px;
+    text-align: center;
+    background: #0091ff;
+    font-size: 10px;
+    font-family: Arial, sans-serif;
+}
+.form-login a{
+    margin-bottom: 30px;
+   
+    text-align: center;
+    text-decoration: none;
+    font-size: 10px;
+    font-family: Arial, sans-serif;
+}
+.img {
+    background: #0091ff;
+   margin: auto;
+   display: block;
+}
+.login-t{
+   margin-top: 3px;
+margin-bottom: 3px;
+    margin-inline-start: 1px;
+    background: #0091ff;
+    font-family: Arial,sans-serif;
+    font-size: 18px;
+    font-weight: bold ;
+
+}
+.icon2{
+    margin-left: 6px;
+    font-size: 12px;
+    margin-bottom: -4px;
+}
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  body {
+    margin: 0;
+    margin-bottom: 40px;
+  }
+  footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background: #0091ff;
+  }
